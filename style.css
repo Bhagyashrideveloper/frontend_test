@@ -1,0 +1,14 @@
+.container{
+    text-align: center;
+    margin-top: 30px;
+}
+button{
+    padding: 10px 25px 10px 25px;
+    font-size: 20px;
+    border: 1px solid rgb(57, 112, 1);
+    background: #ffff24;
+}
+button:hover{
+    background: #2ab803;
+    color: #fff;
+}
